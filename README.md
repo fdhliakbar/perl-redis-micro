@@ -38,7 +38,6 @@ chmod +x perlminiredis.pl
 
 ---
 
-
 ### Next Update
 
 - AUTH Password
