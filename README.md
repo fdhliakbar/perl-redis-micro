@@ -1,7 +1,7 @@
 # Perl Redis Micro
-<p class="text-center">
+<div style="display: flex; align-items: center;">
 <img src="https://media.charlesleifer.com/blog/photos/redis-logo.png" alt="Redis Banner"/>
-</p>
+</div>
 
 <div style="display: flex; align-items: center;" >
 A simple key-value storage system with Redis using Perl, which runs in the terminal.
